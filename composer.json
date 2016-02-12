@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/maintenace",
+	"name":        "kodicms_kohana/maintenace",
 	"type":        "kodicms-plugin",
 	"description": "The official KodiCMS maintenace plugin",
 	"homepage":    "http://www.kodicms.ru/",
